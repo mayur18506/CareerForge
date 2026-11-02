@@ -125,6 +125,11 @@ Open the local URL displayed by Vite in your browser.
 
 ## 📸 Screenshots
 
+### Dashboard
+
+![CareerForge Dashboard](screenshots/dashboard.png)
+
+
 Screenshots of the application will be added here.
 
 ## 🔮 Future Improvements
