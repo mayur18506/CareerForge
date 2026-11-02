@@ -125,9 +125,33 @@ Open the local URL displayed by Vite in your browser.
 
 ## 📸 Screenshots
 
-### Dashboard
+### 1. Login
+
+![CareerForge Login](screenshots/login.png)
+
+### 2. Dashboard
 
 ![CareerForge Dashboard](screenshots/dashboard.png)
+
+### 3. Skills Management
+
+![CareerForge Skills](screenshots/skills.png)
+
+### 4. Learning Goals
+
+![CareerForge Learning Goals](screenshots/learning-goals.png)
+
+### 5. Project Management
+
+![CareerForge Projects](screenshots/projects.png)
+
+### 6. Job Applications
+
+![CareerForge Job Applications](screenshots/job-applications.png)
+
+### 7. Profile Management
+
+![CareerForge Profile](screenshots/profile.png)
 
 
 Screenshots of the application will be added here.
